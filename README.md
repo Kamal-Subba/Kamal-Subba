@@ -9,7 +9,7 @@ Log analysis & SIEM Threat detection Network traffic analysis Incident triage Li
 My short-term goal is a Tier 1 SOC role. I want to build real detection and response experience before eventually moving deeper into offensive security.
 Labs & writeups
 
-I document my lab work at github.com/Blazerz/security-labs — structured writeups across SOC analysis, log review, network security, web vulnerabilities, Linux, enumeration, and privilege escalation. I write them the way I'd communicate findings in a real environment.
+I document my lab work at github.com/Kamal-Subba/security-labs — structured writeups across SOC analysis, log review, network security, web vulnerabilities, Linux, enumeration, and privilege escalation. I write them the way I'd communicate findings in a real environment.
 
 Certifications
 
