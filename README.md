@@ -21,14 +21,17 @@ Building toward a Tier 1 SOC role with emphasis on:
 
 ## Labs & Writeups
 
-I document hands-on lab work here:  
+I document lab work here:  
 https://github.com/Kamal-Subba/home-soc-lab
+- Writeups are structured to reflect real-world analysis and communication — focusing on detection, investigation, and response.
 
-Writeups are structured to reflect real-world analysis and communication — focusing on detection, investigation, and response.
+I Document TryHackMe labs here:
+https://github.com/Kamal-Subba/TryHackMe
+- Covers foundational security concepts and hands-on exercises, with structured writeups that document vulnerability discovery, impact analysis, and remediation strategies.
 
 ---
 
-Certifications
+## Certifications
 
 -    **CompTIA Security+**
   - Issued by: CompTIA
@@ -42,13 +45,13 @@ Certifications
 
 ## Training & Labs
 
-  TryHackMe – Pre Security (SEC0)
-  [View Certificate](https://assets.tryhackme.com/certification-certificate/69cd149a437e95c92b6417bd.pdf)
-  [Credly](https://www.credly.com/badges/5326593a-ae13-4d37-a2e2-3d5583c1afa2/public_url)
+-  **TryHackMe – Pre Security (SEC0)**
+  - [View Certificate](https://assets.tryhackme.com/certification-certificate/69cd149a437e95c92b6417bd.pdf)
+  - [Credly](https://www.credly.com/badges/5326593a-ae13-4d37-a2e2-3d5583c1afa2/public_url)
 
-  TryHackMe – Cyber Security 101 (SEC1)
-  [View Certificate](https://assets.tryhackme.com/certification-certificate/69d66659e244533ec0851009.pdf)
-  [Credly](https://www.credly.com/badges/dc280dfe-cc9f-4380-b34e-7db082cd0373/public_url)
+-  **TryHackMe – Cyber Security 101 (SEC1)**
+  - [View Certificate](https://assets.tryhackme.com/certification-certificate/69d66659e244533ec0851009.pdf)
+  - [Credly](https://www.credly.com/badges/dc280dfe-cc9f-4380-b34e-7db082cd0373/public_url)
 
 
 [TryHackMe](https://tryhackme.com/p/Blazerz)
