@@ -13,9 +13,15 @@ I document my lab work at github.com/Kamal-Subba/security-labs — structured wr
 
 Certifications
 
-    CompTIA Security+
-    CompTIA Network+
-    Cybersecurity Black Belt — Coding Dojo
+-    **CompTIA Security+**
+  - Issued by: CompTIA
+  - [View Credentials](https://www.credly.com/badges/fd762fbf-4283-4ae1-af8a-ac0330c7629f/public_url)
+    
+-    **CompTIA Network+**
+   - Issued by: CompTIA
+   - [View Credentials](https://www.credly.com/badges/33d784c3-fd03-48ef-ab8a-5fdab8912b70/public_url)
+     
+-    **Cybersecurity Black Belt — Coding Dojo**
 
 ## Training & Labs
 
@@ -27,6 +33,8 @@ Certifications
 
 
 [TryHackMe](https://tryhackme.com/p/Blazerz)
+
+[![Security+ Badge](<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="33d784c3-fd03-48ef-ab8a-5fdab8912b70" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>)
     
 
 Open to entry-level SOC opportunities, feedback, and connecting with others in the field.
